@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋, I'm Christian</h1>
-<h3 align="center">A Graduate from Department of Informatics and Computer Engineering</h3>
+<h3 align="center">A Graduate Student from Department of Informatics and Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakiboop&label=Profile%20views&color=0e75b6&style=flat" alt="bakiboop" /> </p>
 
